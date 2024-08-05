@@ -1,0 +1,12 @@
+C:\Users\u733661\source\repos\ReportServiceLibrary\ReportServiceLibrary\bin\Debug\net8.0\ReportServiceLibrary.deps.json
+C:\Users\u733661\source\repos\ReportServiceLibrary\ReportServiceLibrary\bin\Debug\net8.0\ReportServiceLibrary.dll
+C:\Users\u733661\source\repos\ReportServiceLibrary\ReportServiceLibrary\bin\Debug\net8.0\ReportServiceLibrary.pdb
+C:\Users\u733661\source\repos\ReportServiceLibrary\ReportServiceLibrary\obj\Debug\net8.0\ReportServiceLibrary.csproj.AssemblyReference.cache
+C:\Users\u733661\source\repos\ReportServiceLibrary\ReportServiceLibrary\obj\Debug\net8.0\ReportServiceLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u733661\source\repos\ReportServiceLibrary\ReportServiceLibrary\obj\Debug\net8.0\ReportServiceLibrary.AssemblyInfoInputs.cache
+C:\Users\u733661\source\repos\ReportServiceLibrary\ReportServiceLibrary\obj\Debug\net8.0\ReportServiceLibrary.AssemblyInfo.cs
+C:\Users\u733661\source\repos\ReportServiceLibrary\ReportServiceLibrary\obj\Debug\net8.0\ReportServiceLibrary.csproj.CoreCompileInputs.cache
+C:\Users\u733661\source\repos\ReportServiceLibrary\ReportServiceLibrary\obj\Debug\net8.0\ReportServiceLibrary.dll
+C:\Users\u733661\source\repos\ReportServiceLibrary\ReportServiceLibrary\obj\Debug\net8.0\refint\ReportServiceLibrary.dll
+C:\Users\u733661\source\repos\ReportServiceLibrary\ReportServiceLibrary\obj\Debug\net8.0\ReportServiceLibrary.pdb
+C:\Users\u733661\source\repos\ReportServiceLibrary\ReportServiceLibrary\obj\Debug\net8.0\ref\ReportServiceLibrary.dll

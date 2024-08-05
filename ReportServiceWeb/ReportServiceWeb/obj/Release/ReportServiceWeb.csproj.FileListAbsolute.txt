@@ -1,0 +1,12 @@
+C:\Users\u733661\source\repos\ReportServiceWeb\ReportServiceWeb\bin\ReportServiceWeb.dll.config
+C:\Users\u733661\source\repos\ReportServiceWeb\ReportServiceWeb\bin\ReportServiceWeb.dll
+C:\Users\u733661\source\repos\ReportServiceWeb\ReportServiceWeb\bin\ReportServiceWeb.pdb
+C:\Users\u733661\source\repos\ReportServiceWeb\ReportServiceWeb\obj\Release\ReportServiceWeb.csproj.AssemblyReference.cache
+C:\Users\u733661\source\repos\ReportServiceWeb\ReportServiceWeb\obj\Release\ReportServiceWeb.csproj.CoreCompileInputs.cache
+C:\Users\u733661\source\repos\ReportServiceWeb\ReportServiceWeb\obj\Release\ReportServiceWeb.dll
+C:\Users\u733661\source\repos\ReportServiceWeb\ReportServiceWeb\obj\Release\ReportServiceWeb.pdb
+C:\Users\u733661\source\repos\ReportServiceWeb\ReportServiceWeb\bin\ReportServiceLibrary.dll
+C:\Users\u733661\source\repos\ReportServiceWeb\ReportServiceWeb\bin\ReportServiceLibrary.pdb
+C:\Users\u733661\source\repos\ReportServiceWeb\ReportServiceWeb\obj\Release\ReportSe.93E1C525.Up2Date
+C:\Users\u733661\source\repos\ReportServiceWeb\ReportServiceWeb\bin\System.Data.SqlClient.dll
+C:\Users\u733661\source\repos\ReportServiceWeb\ReportServiceWeb\bin\System.Data.SqlClient.xml

@@ -1,0 +1,10 @@
+C:\Users\u733661\source\repos\ReportService\ReportService\bin\Debug\ReportService.exe.config
+C:\Users\u733661\source\repos\ReportService\ReportService\bin\Debug\ReportService.exe
+C:\Users\u733661\source\repos\ReportService\ReportService\bin\Debug\ReportService.pdb
+C:\Users\u733661\source\repos\ReportService\ReportService\bin\Debug\Topshelf.dll
+C:\Users\u733661\source\repos\ReportService\ReportService\bin\Debug\Topshelf.xml
+C:\Users\u733661\source\repos\ReportService\ReportService\obj\Debug\ReportService.csproj.AssemblyReference.cache
+C:\Users\u733661\source\repos\ReportService\ReportService\obj\Debug\ReportService.csproj.CoreCompileInputs.cache
+C:\Users\u733661\source\repos\ReportService\ReportService\obj\Debug\ReportSe.B238185B.Up2Date
+C:\Users\u733661\source\repos\ReportService\ReportService\obj\Debug\ReportService.exe
+C:\Users\u733661\source\repos\ReportService\ReportService\obj\Debug\ReportService.pdb

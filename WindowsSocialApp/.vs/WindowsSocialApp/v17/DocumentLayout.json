@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\u733661\\source\\repos\\WindowsSocialApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{256A5024-0DAB-4DD1-87A5-A3893C06CA3D}|WindowsSocialApp\\WindowsSocialApp.csproj|c:\\users\\u733661\\source\\repos\\windowssocialapp\\windowssocialapp\\service1.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{256A5024-0DAB-4DD1-87A5-A3893C06CA3D}|WindowsSocialApp\\WindowsSocialApp.csproj|solutionrelative:windowssocialapp\\service1.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{256A5024-0DAB-4DD1-87A5-A3893C06CA3D}|WindowsSocialApp\\WindowsSocialApp.csproj|C:\\Users\\u733661\\source\\repos\\WindowsSocialApp\\windowssocialapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{256A5024-0DAB-4DD1-87A5-A3893C06CA3D}|WindowsSocialApp\\WindowsSocialApp.csproj|solutionrelative:windowssocialapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{256A5024-0DAB-4DD1-87A5-A3893C06CA3D}|WindowsSocialApp\\WindowsSocialApp.csproj|C:\\Users\\u733661\\source\\repos\\WindowsSocialApp\\windowssocialapp\\iservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{256A5024-0DAB-4DD1-87A5-A3893C06CA3D}|WindowsSocialApp\\WindowsSocialApp.csproj|solutionrelative:windowssocialapp\\iservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{256A5024-0DAB-4DD1-87A5-A3893C06CA3D}|WindowsSocialApp\\WindowsSocialApp.csproj|C:\\Users\\u733661\\source\\repos\\WindowsSocialApp\\windowssocialapp\\detais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{256A5024-0DAB-4DD1-87A5-A3893C06CA3D}|WindowsSocialApp\\WindowsSocialApp.csproj|solutionrelative:windowssocialapp\\detais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\u733661\\source\\repos\\WindowsSocialApp\\WindowsSocialApp\\Web.config",
+              "RelativeDocumentMoniker": "WindowsSocialApp\\Web.config",
+              "ToolTip": "C:\\Users\\u733661\\source\\repos\\WindowsSocialApp\\WindowsSocialApp\\Web.config",
+              "RelativeToolTip": "WindowsSocialApp\\Web.config",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-04T15:23:26.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IService1.cs",
+              "DocumentMoniker": "C:\\Users\\u733661\\source\\repos\\WindowsSocialApp\\WindowsSocialApp\\IService1.cs",
+              "RelativeDocumentMoniker": "WindowsSocialApp\\IService1.cs",
+              "ToolTip": "C:\\Users\\u733661\\source\\repos\\WindowsSocialApp\\WindowsSocialApp\\IService1.cs",
+              "RelativeToolTip": "WindowsSocialApp\\IService1.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAuwCYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T10:00:35.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Service1.svc.cs",
+              "DocumentMoniker": "C:\\Users\\u733661\\source\\repos\\WindowsSocialApp\\WindowsSocialApp\\Service1.svc.cs",
+              "RelativeDocumentMoniker": "WindowsSocialApp\\Service1.svc.cs",
+              "ToolTip": "C:\\Users\\u733661\\source\\repos\\WindowsSocialApp\\WindowsSocialApp\\Service1.svc.cs",
+              "RelativeToolTip": "WindowsSocialApp\\Service1.svc.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwv1oAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T10:00:02.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "detais.cs",
+              "DocumentMoniker": "C:\\Users\\u733661\\source\\repos\\WindowsSocialApp\\WindowsSocialApp\\detais.cs",
+              "RelativeDocumentMoniker": "WindowsSocialApp\\detais.cs",
+              "ToolTip": "C:\\Users\\u733661\\source\\repos\\WindowsSocialApp\\WindowsSocialApp\\detais.cs",
+              "RelativeToolTip": "WindowsSocialApp\\detais.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T09:23:48.112Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

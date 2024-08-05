@@ -1,0 +1,11 @@
+C:\Users\u733661\source\repos\WindowsSocialApp\WindowsSocialApp\bin\WindowsSocialApp.dll.config
+C:\Users\u733661\source\repos\WindowsSocialApp\WindowsSocialApp\bin\WindowsSocialApp.dll
+C:\Users\u733661\source\repos\WindowsSocialApp\WindowsSocialApp\bin\WindowsSocialApp.pdb
+C:\Users\u733661\source\repos\WindowsSocialApp\WindowsSocialApp\obj\Debug\WindowsSocialApp.csproj.AssemblyReference.cache
+C:\Users\u733661\source\repos\WindowsSocialApp\WindowsSocialApp\obj\Debug\WindowsSocialApp.csproj.CoreCompileInputs.cache
+C:\Users\u733661\source\repos\WindowsSocialApp\WindowsSocialApp\obj\Debug\WindowsSocialApp.dll
+C:\Users\u733661\source\repos\WindowsSocialApp\WindowsSocialApp\obj\Debug\WindowsSocialApp.pdb
+C:\Users\u733661\source\repos\WindowsSocialApp\WindowsSocialApp\bin\WindowsService1.exe
+C:\Users\u733661\source\repos\WindowsSocialApp\WindowsSocialApp\bin\WindowsService1.pdb
+C:\Users\u733661\source\repos\WindowsSocialApp\WindowsSocialApp\bin\WindowsService1.exe.config
+C:\Users\u733661\source\repos\WindowsSocialApp\WindowsSocialApp\obj\Debug\WindowsS.D7A0C575.Up2Date

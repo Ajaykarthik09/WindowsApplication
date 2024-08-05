@@ -1,0 +1,222 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\u733661\\OneDrive - Finastra\\Desktop\\SocialWindowApp\\practice_project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C704988-F774-4491-93AD-A995405A6B30}|practice_project\\practice_project.csproj|c:\\users\\u733661\\onedrive - finastra\\desktop\\socialwindowapp\\practice_project\\practice_project\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C704988-F774-4491-93AD-A995405A6B30}|practice_project\\practice_project.csproj|solutionrelative:practice_project\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C704988-F774-4491-93AD-A995405A6B30}|practice_project\\practice_project.csproj|C:\\Users\\u733661\\OneDrive - Finastra\\Desktop\\SocialWindowApp\\practice_project\\practice_project\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C704988-F774-4491-93AD-A995405A6B30}|practice_project\\practice_project.csproj|solutionrelative:practice_project\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C704988-F774-4491-93AD-A995405A6B30}|practice_project\\practice_project.csproj|C:\\Users\\u733661\\OneDrive - Finastra\\Desktop\\SocialWindowApp\\practice_project\\practice_project\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9C704988-F774-4491-93AD-A995405A6B30}|practice_project\\practice_project.csproj|solutionrelative:practice_project\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C704988-F774-4491-93AD-A995405A6B30}|practice_project\\practice_project.csproj|C:\\Users\\u733661\\OneDrive - Finastra\\Desktop\\SocialWindowApp\\practice_project\\practice_project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C704988-F774-4491-93AD-A995405A6B30}|practice_project\\practice_project.csproj|solutionrelative:practice_project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C704988-F774-4491-93AD-A995405A6B30}|practice_project\\practice_project.csproj|C:\\Users\\u733661\\OneDrive - Finastra\\Desktop\\SocialWindowApp\\practice_project\\practice_project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C704988-F774-4491-93AD-A995405A6B30}|practice_project\\practice_project.csproj|solutionrelative:practice_project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C704988-F774-4491-93AD-A995405A6B30}|practice_project\\practice_project.csproj|C:\\Users\\u733661\\OneDrive - Finastra\\Desktop\\SocialWindowApp\\practice_project\\practice_project\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C704988-F774-4491-93AD-A995405A6B30}|practice_project\\practice_project.csproj|solutionrelative:practice_project\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C704988-F774-4491-93AD-A995405A6B30}|practice_project\\practice_project.csproj|C:\\Users\\u733661\\OneDrive - Finastra\\Desktop\\SocialWindowApp\\practice_project\\practice_project\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C704988-F774-4491-93AD-A995405A6B30}|practice_project\\practice_project.csproj|solutionrelative:practice_project\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C704988-F774-4491-93AD-A995405A6B30}|practice_project\\practice_project.csproj|C:\\Users\\u733661\\OneDrive - Finastra\\Desktop\\SocialWindowApp\\practice_project\\practice_project\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C704988-F774-4491-93AD-A995405A6B30}|practice_project\\practice_project.csproj|solutionrelative:practice_project\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C704988-F774-4491-93AD-A995405A6B30}|practice_project\\practice_project.csproj|C:\\Users\\u733661\\OneDrive - Finastra\\Desktop\\SocialWindowApp\\practice_project\\practice_project\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C704988-F774-4491-93AD-A995405A6B30}|practice_project\\practice_project.csproj|solutionrelative:practice_project\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C704988-F774-4491-93AD-A995405A6B30}|practice_project\\practice_project.csproj|C:\\Users\\u733661\\OneDrive - Finastra\\Desktop\\SocialWindowApp\\practice_project\\practice_project\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C704988-F774-4491-93AD-A995405A6B30}|practice_project\\practice_project.csproj|solutionrelative:practice_project\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C704988-F774-4491-93AD-A995405A6B30}|practice_project\\practice_project.csproj|C:\\Users\\u733661\\OneDrive - Finastra\\Desktop\\SocialWindowApp\\practice_project\\practice_project\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C704988-F774-4491-93AD-A995405A6B30}|practice_project\\practice_project.csproj|solutionrelative:practice_project\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C704988-F774-4491-93AD-A995405A6B30}|practice_project\\practice_project.csproj|C:\\Users\\u733661\\OneDrive - Finastra\\Desktop\\SocialWindowApp\\practice_project\\practice_project\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C704988-F774-4491-93AD-A995405A6B30}|practice_project\\practice_project.csproj|solutionrelative:practice_project\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C704988-F774-4491-93AD-A995405A6B30}|practice_project\\practice_project.csproj|C:\\Users\\u733661\\OneDrive - Finastra\\Desktop\\SocialWindowApp\\practice_project\\practice_project\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C704988-F774-4491-93AD-A995405A6B30}|practice_project\\practice_project.csproj|solutionrelative:practice_project\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\u733661\\OneDrive - Finastra\\Desktop\\SocialWindowApp\\practice_project\\practice_project\\Form2.cs",
+              "RelativeDocumentMoniker": "practice_project\\Form2.cs",
+              "ToolTip": "C:\\Users\\u733661\\OneDrive - Finastra\\Desktop\\SocialWindowApp\\practice_project\\practice_project\\Form2.cs",
+              "RelativeToolTip": "practice_project\\Form2.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwCUAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T13:50:38.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\u733661\\OneDrive - Finastra\\Desktop\\SocialWindowApp\\practice_project\\practice_project\\Form1.cs",
+              "RelativeDocumentMoniker": "practice_project\\Form1.cs",
+              "ToolTip": "C:\\Users\\u733661\\source\\repos\\practice_project\\practice_project\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\practice_project\\practice_project\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T05:41:10.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\u733661\\OneDrive - Finastra\\Desktop\\SocialWindowApp\\practice_project\\practice_project\\Form3.cs",
+              "RelativeDocumentMoniker": "practice_project\\Form3.cs",
+              "ToolTip": "C:\\Users\\u733661\\OneDrive - Finastra\\Desktop\\SocialWindowApp\\practice_project\\practice_project\\Form3.cs",
+              "RelativeToolTip": "practice_project\\Form3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T07:08:22.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\u733661\\OneDrive - Finastra\\Desktop\\SocialWindowApp\\practice_project\\practice_project\\Form1.cs",
+              "RelativeDocumentMoniker": "practice_project\\Form1.cs",
+              "ToolTip": "C:\\Users\\u733661\\OneDrive - Finastra\\Desktop\\SocialWindowApp\\practice_project\\practice_project\\Form1.cs",
+              "RelativeToolTip": "practice_project\\Form1.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAYwBoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T05:41:12.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\u733661\\OneDrive - Finastra\\Desktop\\SocialWindowApp\\practice_project\\practice_project\\App.config",
+              "RelativeDocumentMoniker": "practice_project\\App.config",
+              "ToolTip": "C:\\Users\\u733661\\OneDrive - Finastra\\Desktop\\SocialWindowApp\\practice_project\\practice_project\\App.config",
+              "RelativeToolTip": "practice_project\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAkwCsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-04T16:25:54.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\u733661\\OneDrive - Finastra\\Desktop\\SocialWindowApp\\practice_project\\practice_project\\Form3.cs",
+              "RelativeDocumentMoniker": "practice_project\\Form3.cs",
+              "ToolTip": "C:\\Users\\u733661\\source\\repos\\practice_project\\practice_project\\Form3.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\practice_project\\practice_project\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T07:08:20.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\u733661\\OneDrive - Finastra\\Desktop\\SocialWindowApp\\practice_project\\practice_project\\Form2.cs",
+              "RelativeDocumentMoniker": "practice_project\\Form2.cs",
+              "ToolTip": "C:\\Users\\u733661\\source\\repos\\practice_project\\practice_project\\Form2.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\practice_project\\practice_project\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T08:38:54.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form4.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\u733661\\OneDrive - Finastra\\Desktop\\SocialWindowApp\\practice_project\\practice_project\\Form4.cs",
+              "RelativeDocumentMoniker": "practice_project\\Form4.cs",
+              "ToolTip": "C:\\Users\\u733661\\source\\repos\\practice_project\\practice_project\\Form4.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\practice_project\\practice_project\\Form4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T08:39:32.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form7.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\u733661\\OneDrive - Finastra\\Desktop\\SocialWindowApp\\practice_project\\practice_project\\Form7.cs",
+              "RelativeDocumentMoniker": "practice_project\\Form7.cs",
+              "ToolTip": "C:\\Users\\u733661\\source\\repos\\practice_project\\practice_project\\Form7.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\practice_project\\practice_project\\Form7.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T08:42:30.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form6.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\u733661\\OneDrive - Finastra\\Desktop\\SocialWindowApp\\practice_project\\practice_project\\Form6.cs",
+              "RelativeDocumentMoniker": "practice_project\\Form6.cs",
+              "ToolTip": "C:\\Users\\u733661\\source\\repos\\practice_project\\practice_project\\Form6.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\practice_project\\practice_project\\Form6.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T05:24:22.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form5.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\u733661\\OneDrive - Finastra\\Desktop\\SocialWindowApp\\practice_project\\practice_project\\Form5.cs",
+              "RelativeDocumentMoniker": "practice_project\\Form5.cs",
+              "ToolTip": "C:\\Users\\u733661\\source\\repos\\practice_project\\practice_project\\Form5.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\practice_project\\practice_project\\Form5.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T09:08:33.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\u733661\\OneDrive - Finastra\\Desktop\\SocialWindowApp\\practice_project\\practice_project\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "practice_project\\Form2.Designer.cs",
+              "ToolTip": "C:\\Users\\u733661\\OneDrive - Finastra\\Desktop\\SocialWindowApp\\practice_project\\practice_project\\Form2.Designer.cs",
+              "RelativeToolTip": "practice_project\\Form2.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T13:56:20.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form7.cs",
+              "DocumentMoniker": "C:\\Users\\u733661\\OneDrive - Finastra\\Desktop\\SocialWindowApp\\practice_project\\practice_project\\Form7.cs",
+              "RelativeDocumentMoniker": "practice_project\\Form7.cs",
+              "ToolTip": "C:\\Users\\u733661\\OneDrive - Finastra\\Desktop\\SocialWindowApp\\practice_project\\practice_project\\Form7.cs",
+              "RelativeToolTip": "practice_project\\Form7.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAmwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T08:46:57.128Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

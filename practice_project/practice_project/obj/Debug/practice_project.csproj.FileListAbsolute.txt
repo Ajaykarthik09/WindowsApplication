@@ -1,0 +1,16 @@
+C:\Users\u733661\source\repos\practice_project\practice_project\bin\Debug\practice_project.exe.config
+C:\Users\u733661\source\repos\practice_project\practice_project\bin\Debug\practice_project.exe
+C:\Users\u733661\source\repos\practice_project\practice_project\bin\Debug\practice_project.pdb
+C:\Users\u733661\source\repos\practice_project\practice_project\obj\Debug\practice_project.csproj.AssemblyReference.cache
+C:\Users\u733661\source\repos\practice_project\practice_project\obj\Debug\practice_project.Form1.resources
+C:\Users\u733661\source\repos\practice_project\practice_project\obj\Debug\practice_project.Form2.resources
+C:\Users\u733661\source\repos\practice_project\practice_project\obj\Debug\practice_project.Properties.Resources.resources
+C:\Users\u733661\source\repos\practice_project\practice_project\obj\Debug\practice_project.csproj.GenerateResource.cache
+C:\Users\u733661\source\repos\practice_project\practice_project\obj\Debug\practice_project.csproj.CoreCompileInputs.cache
+C:\Users\u733661\source\repos\practice_project\practice_project\obj\Debug\practice_project.exe
+C:\Users\u733661\source\repos\practice_project\practice_project\obj\Debug\practice_project.pdb
+C:\Users\u733661\source\repos\practice_project\practice_project\obj\Debug\practice_project.Form3.resources
+C:\Users\u733661\source\repos\practice_project\practice_project\obj\Debug\practice_project.Form4.resources
+C:\Users\u733661\source\repos\practice_project\practice_project\obj\Debug\practice_project.Form5.resources
+C:\Users\u733661\source\repos\practice_project\practice_project\obj\Debug\practice_project.Form6.resources
+C:\Users\u733661\source\repos\practice_project\practice_project\obj\Debug\practice_project.Form7.resources

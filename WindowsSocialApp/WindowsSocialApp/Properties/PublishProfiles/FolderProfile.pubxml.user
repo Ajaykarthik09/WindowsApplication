@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\u733661\source\repos\WindowsSocialApp\WindowsSocialApp\bin\app.publish\</_PublishTargetUrl>
+    <History>True|2024-07-18T09:51:48.5452907Z||;True|2024-07-17T19:12:33.6979799+05:30||;True|2024-07-17T18:55:01.7482758+05:30||;True|2024-07-17T17:17:28.6352449+05:30||;True|2024-07-17T17:14:05.4519937+05:30||;True|2024-07-17T16:38:19.1471622+05:30||;True|2024-07-17T16:10:48.1224381+05:30||;True|2024-07-15T19:46:40.6694618+05:30||;True|2024-07-15T19:34:06.2988641+05:30||;True|2024-07-15T18:58:46.8688352+05:30||;True|2024-07-15T18:33:45.9679977+05:30||;True|2024-07-15T18:31:01.8490788+05:30||;True|2024-07-09T15:56:42.1802065+05:30||;True|2024-07-08T21:03:11.8241395+05:30||;True|2024-07-08T15:25:00.0624882+05:30||;True|2024-07-05T11:48:05.5845465+05:30||;True|2024-07-04T20:32:31.6913965+05:30||;True|2024-07-04T19:46:51.3910158+05:30||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/WindowsService1.exe">
+      <publishTime>07/14/2024 19:24:50</publishTime>
+    </File>
+    <File Include="bin/WindowsService1.exe.config">
+      <publishTime>07/11/2024 16:02:23</publishTime>
+    </File>
+    <File Include="bin/WindowsService1.pdb">
+      <publishTime>07/14/2024 19:24:50</publishTime>
+    </File>
+    <File Include="bin/WindowsSocialApp.dll">
+      <publishTime>07/18/2024 15:21:47</publishTime>
+    </File>
+    <File Include="bin/WindowsSocialApp.pdb">
+      <publishTime>07/18/2024 15:21:47</publishTime>
+    </File>
+    <File Include="Service1.svc">
+      <publishTime>04/07/2024 15:30:02</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>07/18/2024 15:21:48</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,7 @@
+C:\Users\u733661\source\repos\ReportServiceWeb\ReportServiceWeb\bin\ReportServiceWeb.dll.config
+C:\Users\u733661\source\repos\ReportServiceWeb\ReportServiceWeb\bin\ReportServiceWeb.dll
+C:\Users\u733661\source\repos\ReportServiceWeb\ReportServiceWeb\bin\ReportServiceWeb.pdb
+C:\Users\u733661\source\repos\ReportServiceWeb\ReportServiceWeb\obj\Debug\ReportServiceWeb.csproj.AssemblyReference.cache
+C:\Users\u733661\source\repos\ReportServiceWeb\ReportServiceWeb\obj\Debug\ReportServiceWeb.csproj.CoreCompileInputs.cache
+C:\Users\u733661\source\repos\ReportServiceWeb\ReportServiceWeb\obj\Debug\ReportServiceWeb.dll
+C:\Users\u733661\source\repos\ReportServiceWeb\ReportServiceWeb\obj\Debug\ReportServiceWeb.pdb
